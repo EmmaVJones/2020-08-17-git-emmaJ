@@ -1,4 +1,4 @@
-# 2020-08-17-git-EmmaJ
+# 2020-08-17
 
 ## Local
 - `git init`: create git repo in current folder
