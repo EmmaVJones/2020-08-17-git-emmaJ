@@ -18,3 +18,5 @@
 - `git remove add origin <URL>` adds url with the name origin
 - `git push origin master` pushes master branch to origin
 
+
+- You can make changes to different parts of file and it will be combined automatically
