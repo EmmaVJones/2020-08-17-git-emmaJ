@@ -12,3 +12,7 @@
 - `git log` shows you history 
    - `git log --oneline` smaller output
 - `HEAD` where you are looking at in commit history
+- `git diff` find differences in commit history
+- `git diff --staged` find differences only in staged content
+- `git commit -m "commit message"` commit shortcut to skip nano
+
