@@ -9,3 +9,6 @@
 - `git status` current state of repo
 - `git add filename` add filename to staged area
 - `git commit` commits file(s) with message, use nano by default config
+- `git log` shows you history 
+   - `git log --oneline` smaller output
+- `HEAD` where you are looking at in commit history
