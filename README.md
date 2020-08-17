@@ -1,4 +1,4 @@
-# 2020-08-17-git-EmmaJ local
+# 2020-08-17-git-EmmaJ
 
 ## Local
 - `git init`: create git repo in current folder
@@ -21,10 +21,9 @@
 ## Remotes
 - `git remove add origin <URL>` adds url with the name origin
 - `git push origin master` pushes master branch to origin
-<<<<<<< HEAD
 - `git pull origin master` pulls master branch from origin
-=======
-
 
 - You can make changes to different parts of file and it will be combined automatically
->>>>>>> fe4788f18dff0115aec849dfad63b729497a5f4b
+
+- You can fix merge conlicts locally in nano by deleting stuff you don't want ">>> === <<<<"
+
