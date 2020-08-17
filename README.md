@@ -1,5 +1,6 @@
 # 2020-08-17-git-EmmaJ
 
+## Local
 - `git init`: create git repo in current folder
 - `git config --global user.name  "EmmaVJones"
 - `git config --global user.email "emma.v.jones@icloud.com"
@@ -15,6 +16,9 @@
 - `git diff` find differences in commit history
 - `git diff --staged` find differences only in staged content
 - `git commit -m "commit message"` commit shortcut to skip nano
+
+
+## Remotes
 - `git remove add origin <URL>` adds url with the name origin
 - `git push origin master` pushes master branch to origin
-
+- `git pull origin master` pulls master branch from origin
