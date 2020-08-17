@@ -15,4 +15,6 @@
 - `git diff` find differences in commit history
 - `git diff --staged` find differences only in staged content
 - `git commit -m "commit message"` commit shortcut to skip nano
+- `git remove add origin <URL>` adds url with the name origin
+- `git push origin master` pushes master branch to origin
 
